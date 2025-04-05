@@ -1,0 +1,10 @@
+PyGithub==2.1.1
+python-dotenv==1.0.1
+tqdm==4.66.1
+rich==13.7.0
+pyfiglet==0.8.post1
+markdown2==2.4.12
+colorama==0.4.6
+beautifulsoup4==4.12.3
+httpx==0.27.2
+requests==2.32.3 
