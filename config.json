@@ -1,0 +1,57 @@
+{
+  "default_settings": {
+    "branch": "main",
+    "private": false,
+    "auto_init": true,
+    "excluded_dirs": [
+      "node_modules",
+      "dist",
+      ".git",
+      "__pycache__",
+      "venv",
+      "env",
+      ".idea",
+      ".vscode",
+      "build",
+      "coverage",
+      ".next"
+    ],
+    "excluded_patterns": [
+      ".env",
+      "package-lock.json",
+      ".pyc",
+      ".pyo",
+      ".pyd",
+      ".so",
+      ".dll",
+      ".dylib",
+      ".log",
+      ".tmp",
+      ".temp",
+      ".DS_Store",
+      "Thumbs.db",
+      ".swp",
+      ".swo",
+      "*.pyc"
+    ],
+    "readme_template": {
+      "features": [
+        "Automated repository management",
+        "Professional README generation",
+        "File upload with progress tracking",
+        "Customizable repository settings"
+      ],
+      "license": "MIT License",
+      "contact": {
+        "name": "Your Name",
+        "twitter": "@yourtwitter"
+      }
+    }
+  },
+  "user_settings": {
+    "github_token": "",
+    "default_username": "",
+    "default_email": "",
+    "preferred_editor": "code"
+  }
+}
